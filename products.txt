@@ -1,0 +1,8 @@
+java	 Beginning Java	1001.99
+jsps	 Java Servlets and JSP	1001.99
+mcsp	 C#	1001.99
+BVBN	 Beginning VB.NET	1001.99
+MCCP	 CICS for the COBOL Programmer	1001.99
+ADON	 VB.NET Database Programming with ADO.NET	1001.99
+ASPN	 ASP.NET Web Programming with VB.NET	1001.99
+TXTP	TextPad	1001.99
